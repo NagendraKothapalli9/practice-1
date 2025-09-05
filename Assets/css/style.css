@@ -11,7 +11,7 @@ body{
 
 } 
 header{
-    position:absolute;
+    position:relative;
     top: 0px;
     height:40px;
     width: 100%;
@@ -24,7 +24,6 @@ header{
 .navbar{
     position: sticky;
     top: 0px;
-    margin-top: -5px;
     width: 100%;
     min-height:30px;
     background-color: cornflowerblue;
